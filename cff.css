@@ -1,0 +1,66 @@
+p{
+    color: rgb(248, 142, 3);
+    font-size: larger;
+    margin-left: 65px;
+}
+h1{
+    color: black;
+    font-style: oblique;
+    margin-left: 600px;
+}
+p.de{
+     color: black;
+     margin-right: 30px;
+     font-family: 'Courier New', Courier, monospace;
+
+}
+
+.df{
+    color: rgb(0, 252, 0);
+    margin-left: 155px;
+    border: red;
+}
+button{
+    border-color: red;
+    box-sizing: border-box;
+}
+h2{
+    color: red;
+    margin-left: 650px;
+}
+
+.text{
+    margin-left: 600px;
+    background-color: rgba(0, 0, 0, 0.178);
+    border-color: rgb(255, 0, 0);
+    border-width: 10px;
+    
+}
+.pass3{
+    margin-left: 600px;
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.178);
+    border-color: rgb(255, 0, 0);
+    border-width: 10px;
+}
+.ent{
+    margin-left: 675px;
+    margin-top: 20px;
+    color: greenyellow;
+    background-color: grey;
+    border-color: hotpink;
+}
+.JJ{
+    background-color: brown;
+    margin-right: 35px;
+} 
+
+head{
+    background-color: crimson;
+}
+h1.jh{
+    color: rgb(32, 32, 32);
+}
+h1.tit{
+    margin-left: 250px;
+}
